@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\fastapiClass\roadToFinal\venv"
+VIRTUAL_ENV="C:\fastapiClass\fastapi_planner01\roadToFinal\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
